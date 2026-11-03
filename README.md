@@ -1,4 +1,3 @@
-# home-ai-gatekeeper-concept
 # Home AI Gatekeeper
 
 ### AIの提案と購入実行を分ける — AIDE ARK GATE コンセプトデモ
